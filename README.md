@@ -2,3 +2,4 @@
 - 👀 I’m currently interested in learning more about: Python, Javascript, Go 
 - 🌱 I’m currently learning Go :)
 - 📫 You can send me a mail! ---> to.un.thi@gmail.com
+- https://www.codewars.com/users/pandanmochi/
