@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @pandanmochi or you can call me Uyen as well
+- 👋 Hi, I’m Uyen
 - 📫 You can send me a mail! ---> to.un.thi@gmail.com
